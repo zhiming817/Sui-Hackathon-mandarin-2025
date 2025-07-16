@@ -6,18 +6,18 @@ Sui中文2025中文在线黑客松
 - 10月19号截止提交
 - 10月22号Demo Day
 
+## 奖池说明
+- 官方赛道奖池会根据项目排名发出
+- 赞助商赛道由赞助商评选，如果赞助商没有选出中意的项目，奖项可能空缺
 
-## 奖池(5K) Sui赛道
-- 第一名: 2K USD
-- 第二名: 1K USD
-- 第三名: 500 USD
-- 4-10: 100 USD
-- 11-20: 60 USD
-- 21-30: 30 USD
+# 赛道
 
+## 奖池(10K) Sui赛道
+[sui](./track/sui.md)
 
-## 赛道 2
+## Bucket 赛道 10K USD
+[Bucket](./track/bucket.md)
 
-## 赛道 3
-
+## Scallop 5K USD等值SCA
+[Scallop](./track/scallop.md)
 
