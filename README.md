@@ -48,7 +48,7 @@ Sui中文2025中文在线黑客松
 
 [Scallop](./track/scallop.md)
 
-## Scallop 2.5K USD等值 NAVX
+## Navi Protocol  2.5K USD等值 NAVX
 
 | 名次  | 金额     | 数量 | 说明 |
 |-----|--------|----|----|
