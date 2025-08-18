@@ -1,11 +1,14 @@
 ## project
 - 项目名称: **自己的项目名称**
 > 描述: 自己的项目描述
+- Sui钱包地址: **自己的钱包地址**
+> 描述: 用于接收奖励
 
 ## 参与赛道
 - [] Sui官方赛道
 - [] Bucket赛道
 - [] Scallop赛道
+- [] Navi赛道
 
 ## Member
 - [你的username](https://github.com/你的username)
