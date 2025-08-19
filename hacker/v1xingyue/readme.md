@@ -4,7 +4,8 @@
 - Sui钱包地址: **0xc4d17bdea567268b50cb24c783ccafc678d468a0cfce0afb84313b163cb403ef**
 
 ## 参与赛道
-- [] Sui官方赛道
+- [✓] Sui官方赛道
+
 
 ## Member
 - [v1xingyue](https://github.com/v1xingyue)
