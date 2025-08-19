@@ -12,8 +12,7 @@
 > 自我介绍&技术栈:全栈开始
 
 ## 参赛信息
-- [项目代码1](*8)
-- [项目代码2](**)
+- 项目代码 [md2walrus](https://github.com/mycevin/md2walrus)
 
 - [PPT]()
 - [在线地址]()
