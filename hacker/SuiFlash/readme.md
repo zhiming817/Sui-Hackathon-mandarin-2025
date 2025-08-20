@@ -2,7 +2,7 @@
 
 - 项目名称: **SuiFlash**
 > 描述: Sui 链上 Flash Loan 聚合器
-- Sui钱包地址: 0xcd8369e1a8ae681fb05660ffe9811872daff3f6946a4981c2e573a0627c3a877
+- Sui钱包地址: 0xa11cea3bbf6889be9d49991757cb0b676d644e24acec54225d64c97a1d81acc1
 
 ## 参与赛道
 
