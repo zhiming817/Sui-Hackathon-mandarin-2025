@@ -15,8 +15,7 @@
 > 自我介绍&技术栈: 求学期间主攻AI，目前担任某厂前端工程师，业余搞Web3。熟练使用React、熟悉Move智能合约，正在学习Rust开发。
 
 ## 参赛信息
-代码暂时还未开源
-- [项目代码1](*8)
+- [AgentHelperBorrowAndLend](https://github.com/AlexWaker/AgentHelperBorrowAndLend)
 - [项目代码2](**)
 
 - [PPT]()
