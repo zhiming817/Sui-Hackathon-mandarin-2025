@@ -1,5 +1,11 @@
 [x]第1周 8月20号
+
+Done
 - 完成 sui vault 合约开发, testnet 部署, 与 testnet circle USDC 联调充值提现成功.
+- 研究 sui indexer
+
+TODO
+- 使用 sui indexer 索引合约上 deposit 事件
 
 []第2周 8月27号
 - 
