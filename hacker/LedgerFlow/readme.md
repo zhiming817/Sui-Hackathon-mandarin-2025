@@ -2,7 +2,7 @@
 
 - 项目名称: **LedgerFlow**
 > 描述: Web3 版本 Stripe, 去中心化支付网关, 开发者友好
-- Sui钱包地址: **0xcd8369e1a8ae681fb05660ffe9811872daff3f6946a4981c2e573a0627c3a877**
+- Sui钱包地址: 0xb0be0b86d3fa8ad7484d88821c78c035fa819702a0cc06cf2a4fc4924036a885
 
 ## 参与赛道
 
