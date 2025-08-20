@@ -6,6 +6,7 @@ Done
 - Navi Protocol 集成与测试.
 
 TODO
+- gRPC 方式订阅链上协议数据.
 - 链上调试 Navi Protocol.
 
 []第2周 8月27号
