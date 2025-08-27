@@ -5,8 +5,8 @@
 > 描述: 用于接收奖励
 
 ## 参与赛道
-- [] Sui官方赛道
-- [] Bucket赛道
+- [x] Sui官方赛道
+- [x] Bucket赛道
 - [] Scallop赛道
 - [] Navi赛道
 
