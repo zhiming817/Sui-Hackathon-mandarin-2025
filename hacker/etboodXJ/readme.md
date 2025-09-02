@@ -6,9 +6,9 @@
 
 ## 参与赛道
 - [√] Sui官方赛道
-- [] Bucket赛道
-- [] Scallop赛道
-- [] Navi赛道
+- [√] Bucket赛道
+- [√] Scallop赛道
+- [√] Navi赛道
 
 ## Member
 - [etboodXJ](https://github.com/etboodXJ)
