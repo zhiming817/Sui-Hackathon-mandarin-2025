@@ -7,11 +7,24 @@ Done
 TODO
 - 使用 sui indexer 索引合约上 deposit 事件
 
-[]第2周 8月27号
-- 
+[x]第2周 8月27号
 
-[]第3周 9月3号
-- 
+Done
+- 参考 EVM 上 x402 exact scheme https://github.com/coinbase/x402/blob/main/specs/schemes/exact/scheme_exact_evm.md 以及 https://github.com/coinbase/x402/blob/main/specs/schemes/exact/scheme_exact_sui.md 设计实现基于 SUI Intent Signing 的 spec
+- 根据新设计 sui exact scheme spec  实现 ledgerflow-facilitator(in progress).
+
+TODO
+- ledgerflow-facilitator
+
+[x]第3周 9月3号
+
+DONE
+
+- ledgerflow-facilitator 集成 sui json rpc 发送交易上链部分.
+
+TODO
+
+- 完成一笔成功的通过 ledgerflow-facilitator 的充值交易.
 
 []第4周 9月10号
 - 
