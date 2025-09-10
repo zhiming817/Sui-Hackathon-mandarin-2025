@@ -24,5 +24,4 @@
 - [在線地址](https://github.com/k66inthesky/suiguard/)
 
 ## 其他附加說明
->> 你想說什麼
 
