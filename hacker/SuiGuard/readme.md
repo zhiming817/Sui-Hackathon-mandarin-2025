@@ -14,7 +14,7 @@
 - [k66](https://github.com/k66inthesky/)
 > 自我介紹&技術棧: 對web3充滿熱情，主要負責團隊後端&CI/CD，希望與大家多多交流技術!
 - [Emily](https://github.com/lienweb)
-> 自我介紹&技術棧: 
+> 自我介紹&技術棧: 對 Web 充滿好奇，主要負責團隊前端與UI/UX設計
 
 ## 參賽信息
 - [項目代碼](https://github.com/k66inthesky/suiguard)
@@ -25,3 +25,4 @@
 
 ## 其他附加說明
 >> 你想說什麼
+
